@@ -51,7 +51,6 @@ WHERE company = 'Casper';
 
 -- Delete the Duplicates is not possible - can not update cte
 -- Create a new table
--- right click on the table - copy to clipboard - Create Statement or create new Table
 
 DROP TABLE layoffs_staging2;
 
